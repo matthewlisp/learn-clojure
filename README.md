@@ -12,7 +12,6 @@ Allowed syntax: https://sourceforge.net/p/telegram/wiki/markdown_syntax/
 
 Tool for editing markdown: https://stackedit.io/app
 
-
 Books
 ------------------
 - **Clojure for the brave and true** *-b* \

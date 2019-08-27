@@ -1,7 +1,7 @@
 
 # Instructions
 
-This file will be used by Jay bot https://github.com/matthewlisp/jay-bot\
+This file will be used by Jay bot https://github.com/matthewlisp/jay-bot
 When the command **/learn** is used! Anyone can request changes on the file.
 
 Please mark with a flag when possible, the resources that are good for:\

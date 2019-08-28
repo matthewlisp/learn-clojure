@@ -18,6 +18,10 @@ Books
 *Good for beginners on clojure, covers all the core features of the language plus, it has a free version.* \
 <https://www.braveclojure.com/clojure-for-the-brave-and-true/>
 
+- **Descobrindo clojure** *-b* \
+*Good for beginners on functional programming in general, that prefer portuguese content. The purpose of the book is to guide you through functional concepts without all the academic buzzwords you see out there, it's completely in Portuguese Brazilian.* \
+<https://descobrindoclojure.com.br/>
+
 Videos
 ------------------
 - **Clojure koans videos** *-b* \

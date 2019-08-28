@@ -26,6 +26,10 @@ Courses
 
 Websites
 ------------------
+- **Clojure koans** *-b* *-e* \
+*On this website you can learn a little bit more about clojure using the Koan style. \
+What is a Koan? It's a "Fill the blanks" approach using programming*
+<http://clojurekoans.com>
 
 Useful links
 ------------------

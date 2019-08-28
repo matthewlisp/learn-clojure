@@ -32,4 +32,7 @@ Useful links
 
 ClojureScript
 ------------------
+- **ClojureScript Reagent & re-frame** *-b* \
+*Learn the clojure-way to do reactive web apps. Has free videos and paid course on Reagent (clojure wrapper for React) and re-frame. *
+<https://www.jacekschae.com>
 

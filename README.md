@@ -20,7 +20,7 @@ Books
 
 Videos
 ------------------
-- **Clojure koans videos* *-b* \
+- **Clojure koans videos** *-b* \
 *The author of the videos takes you by the hand while doing the Koans from clojurekoans.com website.* \
 <https://www.youtube.com/watch?v=P6S_1nCfjWA&list=PL1p6TgkbKXqyOwq6iSkce_EY5YWFHciHt>
 

@@ -29,6 +29,10 @@ Websites
 
 Useful links
 ------------------
+- **Clojure setup for editing code and development** *-b* \
+*An oppinionated way to setup your first clojure development workflow using Atom. \
+(Custom setups for clojure are highly recommended because of how editors handle lisp languages and the clojure REPL.)*
+<https://gist.github.com/jasongilman/d1f70507bed021b48625>
 
 ClojureScript
 ------------------

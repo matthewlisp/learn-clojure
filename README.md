@@ -22,6 +22,10 @@ Books
 *Good for beginners on functional programming in general, that prefer portuguese content. The purpose of the book is to guide you through functional concepts without all the academic buzzwords you see out there, it's completely in Portuguese Brazilian.* \
 <https://descobrindoclojure.com.br/>
 
+- **Clojure, The Essential Reference** *-e* \
+*The Clojure standard library is a treasure trove of functions and macros that have been battle-tested over the years to solve the most challenging programming problems. It's an extensive reference to the standard library providing clear explanations for each topic, this guide is full of real-world examples, links, and background information. The book is designed to be used as reference* \
+<https://www.manning.com/books/clojure-the-essential-reference>
+
 Videos
 ------------------
 - **Clojure koans videos** *-b* \

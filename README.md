@@ -34,7 +34,7 @@ Videos
 
 Courses
 ------------------
-- **Alura Clojure course** *-b* *-e* \
+- **Alura Clojure course** \
 *Alura is a paid platform for learning technologies, aimed for portuguese-brazilian speakers!* \
 <https://www.alura.com.br/cursos-online-programacao/clojure>
 

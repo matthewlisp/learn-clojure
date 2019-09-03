@@ -42,6 +42,11 @@ Websites
 What is a Koan? It's a "Fill the blanks" approach using programming* \
 <http://clojurekoans.com>
 
+- **Practicalli** \
+*Practical approaches to learning Functional Programming with Clojure \
+YouTube broadcasts, screencasts and online guides to support you in your journey into Clojure and development tools* \
+<http://practicalli.github.io>
+
 Useful links
 ------------------
 - **Clojure setup for editing code and development** *-b* \

@@ -65,6 +65,12 @@ Useful links
 (Custom setups for clojure are highly recommended because of how editors handle lisp languages and the clojure REPL.)* \
 <https://gist.github.com/jasongilman/d1f70507bed021b48625>
 
+- **Learn Clojure back-end by reading code** *-b* \
+*This is one kinda easy way to learn clojure back-end, by reading real world code example and understanding it. \
+To do this, you can use the clojure Polylith Real World example below \
+P.S: Be sure to learn the Polylith architecture first: polylith.gitbook.io/polylith/* \
+<https://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app>
+
 ClojureScript
 ------------------
 - **ClojureScript Reagent & re-frame** \

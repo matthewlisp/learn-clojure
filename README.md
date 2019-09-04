@@ -48,7 +48,7 @@ Courses
 
 Websites
 ------------------
-- **Clojure koans** *-b* *-e* \
+- **Clojure koans** \
 *On this website you can learn a little bit more about clojure using the Koan style. \
 What is a Koan? It's a "Fill the blanks" approach using programming* \
 <http://clojurekoans.com>
@@ -65,7 +65,7 @@ Useful links
 (Custom setups for clojure are highly recommended because of how editors handle lisp languages and the clojure REPL.)* \
 <https://gist.github.com/jasongilman/d1f70507bed021b48625>
 
-- **Learn Clojure back-end by reading code** *-b* \
+- **Learn Clojure back-end by reading code** \
 *This is one kinda easy way to learn clojure back-end, by reading real world code example and understanding it. \
 To do this, you can use the clojure Polylith Real World example below \
 P.S: Be sure to learn the Polylith architecture first: polylith.gitbook.io/polylith/* \

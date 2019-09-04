@@ -26,6 +26,10 @@ Books
 *The Clojure standard library is a treasure trove of functions and macros that have been battle-tested over the years to solve the most challenging programming problems. It's an extensive reference to the standard library providing clear explanations for each topic, this guide is full of real-world examples, links, and background information. The book is designed to be used as reference* \
 <https://www.manning.com/books/clojure-the-essential-reference>
 
+- **Getting Clojure** *-e* \
+*The book has three phases: basic, intermediate and advanced. Lightly touches general core aspects of clojure, explain good practices and things to avoid while explaining functional programming concepts.* \
+<https://pragprog.com/book/roclojure/getting-clojure>
+
 Videos
 ------------------
 - **Clojure koans videos** *-b* \

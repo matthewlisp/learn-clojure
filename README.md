@@ -38,6 +38,10 @@ Courses
 *Alura is a paid platform for learning technologies, aimed for portuguese-brazilian speakers!* \
 <https://www.alura.com.br/cursos-online-programacao/clojure>
 
+- **Building Microservices with Clojure** *-e* \
+*Learn to set-up, build and deploy microservices with Clojure using Pedestal library. The course is in Video format!* \
+<https://www.oreilly.com/library/view/building-microservices-with/9781771374354/>
+
 Websites
 ------------------
 - **Clojure koans** *-b* *-e* \

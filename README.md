@@ -58,6 +58,11 @@ What is a Koan? It's a "Fill the blanks" approach using programming* \
 YouTube broadcasts, screencasts and online guides to support you in your journey into Clojure and development tools* \
 <http://practicalli.github.io>
 
+- **Clojurecademy** \
+*Clojurecademy is like Codecademy that focuses only Clojure and its ecosystem \
+It teaches Clojure programming language or anything related to programming in general. \
+<https://clojurecademy.com/>
+
 Useful links
 ------------------
 - **Clojure setup for editing code and development** *-b* \

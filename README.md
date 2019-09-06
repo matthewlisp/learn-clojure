@@ -30,7 +30,7 @@ Books
 *The book has three phases: basic, intermediate and advanced. Lightly touches general core aspects of clojure, explain good practices and things to avoid while explaining functional programming concepts.* \
 <https://pragprog.com/book/roclojure/getting-clojure>
 
-- **Getting Clojure**  \
+- **The Joy of Clojure**  \
 *Good book for reference, goes deep into each core aspect of Clojure and explains in detail.* \
 <https://www.manning.com/books/the-joy-of-clojure-second-edition>
 

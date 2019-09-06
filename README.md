@@ -60,7 +60,7 @@ YouTube broadcasts, screencasts and online guides to support you in your journey
 
 - **Clojurecademy** \
 *Clojurecademy is like Codecademy that focuses only Clojure and its ecosystem \
-It teaches Clojure programming language or anything related to programming in general. \
+It teaches Clojure programming language or anything related to programming in general.* \
 <https://clojurecademy.com/>
 
 Useful links

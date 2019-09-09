@@ -71,6 +71,10 @@ It teaches Clojure programming language or anything related to programming in ge
 *A quick guide to Clojure and its ecosystem for newbies.* \
 <http://www.clojurenewbieguide.com/>
 
+- **4Clojure** \
+*4Clojure is a collection of clojure exercises that covers the entire core aspects of the language..* \
+<http://www.4clojure.com/>
+
 Useful links
 ------------------
 - **Clojure setup for editing code and development** *-b* \

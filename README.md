@@ -67,6 +67,10 @@ YouTube broadcasts, screencasts and online guides to support you in your journey
 It teaches Clojure programming language or anything related to programming in general.* \
 <https://clojurecademy.com/>
 
+- **Clojure newbie guide** \
+*A quick guide to Clojure and its ecosystem for newbies.* \
+<http://www.clojurenewbieguide.com/>
+
 Useful links
 ------------------
 - **Clojure setup for editing code and development** *-b* \

@@ -78,6 +78,7 @@ It teaches Clojure programming language or anything related to programming in ge
 - **Exercism clojure** \
 *Exercism is a platform for leveling up your programming skills through exercises, and there is a specific track for each language.* \
 <https://exercism.io/tracks/clojure>
+
 Useful links
 ------------------
 - **Clojure setup for editing code and development** *-b* \

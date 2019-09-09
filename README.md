@@ -34,6 +34,10 @@ Books
 *Good book for reference, goes deep into each core aspect of Clojure and explains in detail.* \
 <https://www.manning.com/books/the-joy-of-clojure-second-edition>
 
+- **Web development with clojure, third edition**  \
+*This book aims to teach how to build a SPA using clojure and clojureScript with the Luminus framework.* \
+<https://pragprog.com/book/dswdcloj3/web-development-with-clojure-third-edition>
+
 Videos
 ------------------
 - **Clojure koans videos** *-b* \

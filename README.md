@@ -75,6 +75,9 @@ It teaches Clojure programming language or anything related to programming in ge
 *4Clojure is a collection of clojure exercises that covers the entire core aspects of the language..* \
 <http://www.4clojure.com/>
 
+- **Exercism clojure** \
+*Exercism is a platform for leveling up your programming skills through exercises, and there is a specific track for each language.* \
+<https://exercism.io/tracks/clojure>
 Useful links
 ------------------
 - **Clojure setup for editing code and development** *-b* \

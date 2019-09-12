@@ -102,3 +102,6 @@ ClojureScript
 *Learn the clojure-way to do reactive web apps. Has free videos and paid course on Reagent (clojure wrapper for React) and re-frame. * \
 <https://www.jacekschae.com>
 
+- **ClojureScript Unraveled - Book** \
+*A comprehensive introduction to the ClojureScript language and its idiomatic usage. It covers the clojurescript language and assumes the reader knows nothing about clojure. * \
+<http://funcool.github.io/clojurescript-unraveled/>

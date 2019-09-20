@@ -8,6 +8,8 @@ Please mark with a flag when possible, the resources that are good for:\
 Total beginners on back-end or programming : -b\
 For experienced developers                 : -e\
 
+The resources without flags means we don't know how to measure if it's good for beginners or experienced dev's, judge by yourself.
+
 Allowed syntax: Markdown, https://guides.github.com/features/mastering-markdown/
 
 Tool for editing markdown: https://stackedit.io/app
@@ -43,6 +45,10 @@ Videos
 - **Clojure koans videos** *-b* \
 *The author of the videos takes you by the hand while doing the Koans from clojurekoans.com website.* \
 <https://www.youtube.com/watch?v=P6S_1nCfjWA&list=PL1p6TgkbKXqyOwq6iSkce_EY5YWFHciHt>
+
+- **Clojure koans videos** \
+*A great video about how to start using Clojure for the web* \
+<https://www.youtube.com/watch?v=LcpbBth7FaQ>
 
 Courses
 ------------------

@@ -89,6 +89,12 @@ It teaches Clojure programming language or anything related to programming in ge
 *Exercism is a platform for leveling up your programming skills through exercises, and there is a specific track for each language.* \
 <https://exercism.io/tracks/clojure>
 
+Guides and tutorials
+------------------
+- **How to build HTTP APIs with Clojure** *-e* \
+*Title says it all, aimed to people who already have a little experience on building APIs but want to fast figure out how to do it with Clojure* \
+<http://matthewlisp.com/set-up-clojure-api/>
+
 Useful links
 ------------------
 - **Clojure setup for editing code and development** *-b* \

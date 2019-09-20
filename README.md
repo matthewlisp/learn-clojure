@@ -8,7 +8,7 @@ Please mark with a flag when possible, the resources that are good for:\
 Total beginners on back-end or programming : -b\
 For experienced developers                 : -e\
 
-Allowed syntax: https://sourceforge.net/p/telegram/wiki/markdown_syntax/
+Allowed syntax: Markdown, https://guides.github.com/features/mastering-markdown/
 
 Tool for editing markdown: https://stackedit.io/app
 

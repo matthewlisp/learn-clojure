@@ -118,6 +118,6 @@ ClojureScript
 *A comprehensive introduction to the ClojureScript language and its idiomatic usage. It covers the clojurescript language and assumes the reader knows nothing about clojure. * \
 <http://funcool.github.io/clojurescript-unraveled/>
 
-- **Why clojurescript matters** \
-*Series of posts teaching clojurescript, doesn't require to know clojure before cljs. * \
-<https://dev.to/kendru/why-clojurescript-matters-227f>
+- **Learn ClojureScript - Book** \
+*Series of lessons teaching ClojureScript, doesn't require to know clojure before cljs. * \
+<https://www.learn-clojurescript.com>

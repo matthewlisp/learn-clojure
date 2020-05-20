@@ -65,7 +65,7 @@ Websites
 - **Clojure koans** \
 *On this website you can learn a little bit more about clojure using the Koan style. \
 What is a Koan? It's a "Fill the blanks" approach using programming* \
-<http://clojurekoans.com>
+<http://clojurescriptkoans.com>
 
 - **Practicalli** \
 *Practical approaches to learning Functional Programming with Clojure \

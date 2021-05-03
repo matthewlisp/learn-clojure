@@ -1,18 +1,12 @@
 
 # Instructions
 
-This file will be used by Jay bot https://github.com/matthewlisp/jay-bot
-When the command **/learn** is used! Anyone can request changes on the file.
-
 Please mark with a flag when possible, the resources that are good for:\
 Total beginners on back-end or programming : -b\
 For experienced developers                 : -e\
 
 The resources without flags means we don't know how to measure if it's good for beginners or experienced dev's, judge by yourself.
 
-Allowed syntax: Markdown, https://guides.github.com/features/mastering-markdown/
-
-Tool for editing markdown: https://stackedit.io/app
 
 Books
 ------------------
